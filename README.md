@@ -1,4 +1,4 @@
-Ruben Verborgh's [dotfiles](http://dotfiles.github.com/).
+Ruben Verborgh's [dotfiles](http://dotfiles.github.io/).
 
 For a quick install:
 ```bash
